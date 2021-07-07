@@ -1,0 +1,22 @@
+Engine/Binaries/Win64/UE4Game.exe	2021-01-25T11:24:43.914Z
+Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-01-25T11:26:40.209Z
+Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2021-01-25T11:23:21.313Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2021-01-25T11:23:15.642Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll	2021-01-25T11:23:32.627Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll	2021-01-25T11:23:32.667Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.dll	2021-01-25T11:23:32.115Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll	2021-01-25T11:23:32.055Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.dll	2021-01-25T11:23:31.924Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_ClothingPROFILE_x64.dll	2021-01-25T11:23:29.123Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_LegacyPROFILE_x64.dll	2021-01-25T11:23:30.511Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFrameworkPROFILE_x64.dll	2021-01-25T11:23:30.644Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvClothPROFILE_x64.dll	2021-01-25T11:23:31.113Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2021-01-25T11:23:21.339Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2021-01-25T11:23:54.477Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-01-25T11:23:54.478Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-01-25T11:23:20.790Z
+Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-01-25T11:23:21.547Z
+Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2021-01-25T11:23:54.740Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-01-25T11:23:55.178Z
+SGS2/Content/Movies/Sentinel intro.mp4	2020-01-21T01:01:32.821Z
+SGS2.exe	2021-04-30T07:22:56.812Z
